@@ -1,0 +1,6 @@
+{
+    "surfaces": {
+        "snow": ["snow_textured.001"],
+        "cement": ["PL_rock_foundation"]
+    }
+}

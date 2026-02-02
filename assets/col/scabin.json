@@ -1,0 +1,6 @@
+{
+    "surfaces": {
+        "cement": ["stone_floor", "fireplace_base"],
+        "wood": ["wood_floor_1", "tatami_tile", "cabin_frame", "wood_spacer"]
+    }
+}
